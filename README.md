@@ -2,7 +2,7 @@
 Estou  cursando "Analise e Desenvolvimento de Sistema. eu tenho 46 anos mais des do " Dos, Lotus, dbase e Word Star" trabalho com informatica desda instalação do sistema operacinal, troca de hardware e sites.
 </br>
 <br/>
-### Minhas redes sociais!...<br/>
+### Minhas redes sociais!... 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lannersilva)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lanner-silva-7b81b1163/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/armagedonsports?t=YZl4OEI4RdbNDExs8URaHQ&s=09)
@@ -12,8 +12,7 @@ Estou  cursando "Analise e Desenvolvimento de Sistema. eu tenho 46 anos mais des
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LannerSilva&layout=compact)](https://github.com/LannerSilva/github-readme-stats)
 
 ### Tecnologia que eu uso.
-
-<div style="display: inline_block"><br/> 
+<div style="display: inline_block"> 
 <img align="center" alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
 <img align="center" alt="python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
 <img align="center" alt="C" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
