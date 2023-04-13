@@ -2,7 +2,7 @@
 Estou  cursando "Analise e Desenvolvimento de Sistema. eu tenho 46 anos mais des do " Dos, Lotus, dbase e Word Star" trabalho com informatica desda instalação do sistema operacinal, troca de hardware e sites.
 </br>
 <br/>
-
+###Minhas redes sociais!...
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lannersilva)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lanner-silva-7b81b1163/)
 [![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/armagedonsports?t=YZl4OEI4RdbNDExs8URaHQ&s=09)
