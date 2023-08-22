@@ -1,6 +1,7 @@
 ### 🖥️ Seja  Bem Vindo!!! Eu sou Lanner Silva 🖥️ <br/>
-Estou  cursando "Analise e Desenvolvimento de Sistema. eu tenho 46 anos mais des do " Dos, Lotus, dbase e Word Star" trabalho com informatica desda instalação do sistema operacinal, troca de hardware e sites.
 </br>
+Sou um entusiasta da tecnologia e da análise de dados, atualmente cursando Análise e Desenvolvimento de Sistemas na Estácio. Tenho experiência em SQL Server, Python e R, e adquiri conhecimentos sólidos em Business Intelligence e Power BI.
+
 <br/>
 ### Minhas redes sociais!... 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lannersilva)
