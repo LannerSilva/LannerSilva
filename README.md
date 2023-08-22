@@ -1,8 +1,10 @@
 ### 🖥️ Seja  Bem Vindo!!! Eu sou Lanner Silva 🖥️ <br/>
 </br>
+
 Sou um entusiasta da tecnologia e da análise de dados, atualmente cursando Análise e Desenvolvimento de Sistemas na Estácio. Tenho experiência em SQL Server, Python e R, e adquiri conhecimentos sólidos em Business Intelligence e Power BI.
 
-<br/>
+<br/> 
+</br>
 ### Minhas redes sociais!... 
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/lannersilva)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lanner-silva-7b81b1163/)
