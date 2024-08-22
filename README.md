@@ -1,7 +1,14 @@
 ### 🖥️ Seja  Bem Vindo!!! Eu sou Lanner Silva 🖥️ <br/>
 </br>
 
-Sou um entusiasta da tecnologia e da análise de dados, atualmente cursando Análise e Desenvolvimento de Sistemas na Estácio. Tenho experiência em SQL Server, Python e R, e adquiri conhecimentos sólidos em Business Intelligence e Power BI.
+Estou no último período do curso de Análise e Desenvolvimento de Sistemas e gostaria de me candidatar à vaga de estágio em TI. Tenho amplo conhecimento em análise de suporte e experiência em atender usuários, realizando manutenção e instalação de hardware e software.
+
+Possuo conhecimentos básicos em Python e SQL, além de uma sólida experiência com o pacote Office. Estou familiarizado com o acompanhamento e registro de incidentes de TI, sempre buscando atender aos SLAs definidos pela política de TI da empresa. Entendo a importância de seguir rigorosamente os padrões de segurança da informação e estou comprometido em garantir o controle eficiente dos ativos de TI.
+
+Estou confiante de que minha formação e habilidades podem contribuir positivamente para a equipe, especialmente no suporte ao usuário e na manutenção de equipamentos de TI. Estou motivado a aprender e contribuir para o sucesso dos projetos, identificando e implementando melhorias que visem atender plenamente às expectativas dos usuários.
+
+Agradeço a oportunidade de me candidatar e estou à disposição para uma entrevista.
+
 
 <br/> 
 
