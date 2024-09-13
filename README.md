@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Seja Bem Vindo! Eu sou Lanner Silva!!!<br><br>Estou no último período do curso de Análise e Desenvolvimento de Sistemas, prestes a me formar, com uma sólida base em tecnologia e suporte. Durante minha jornada acadêmica, desenvolvi um forte conhecimento em análise de suporte e experiência prática em manutenção e instalação de hardware e software, sempre focado no atendimento ao usuário.<br><br>    Tenho conhecimentos em Python e SQL, além de uma ampla familiaridade com o pacote Office. Também sou experiente no acompanhamento e registro de incidentes de TI, com foco no cumprimento de SLAs e na adesão às políticas de segurança da informação da empresa.<br><br>    Minha dedicação em garantir a eficiência no controle de ativos de TI e o atendimento de qualidade ao usuário é algo que considero essencial. Estou sempre em busca de aprender mais, aprimorar minhas habilidades e contribuir de maneira significativa para os projetos e metas da equipe.<br><br>    Sinto-me preparado para desafios, motivado a colaborar e encontrar soluções que melhorem os processos e a satisfação dos usuários.</p>
+<p align="left">- Analista de suporte<br>- Estudante em Analise e Desenvolvimento de Sistema. (Estácio)<br>- Análise de dados do Google (Coursera)<br>- Gerenciamento de projetos do Google (Coursera)</p>
 
 ###
 
